@@ -1,0 +1,15 @@
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\bin\Release\s1x Modded Class.exe.config
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\bin\Release\s1x Modded Class.exe
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\bin\Release\s1x Modded Class.pdb
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\bin\Release\Memory.dll
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\bin\Release\MetroFramework.dll
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\bin\Release\MetroFramework.Fonts.dll
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\bin\Release\Memory.xml
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\obj\Release\s1x Modded Class.csproj.AssemblyReference.cache
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\obj\Release\s1x_Modded_Class.Form1.resources
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\obj\Release\s1x_Modded_Class.Properties.Resources.resources
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\obj\Release\s1x Modded Class.csproj.GenerateResource.cache
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\obj\Release\s1x Modded Class.csproj.CoreCompileInputs.cache
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\obj\Release\s1x Modded Class.csproj.CopyComplete
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\obj\Release\s1x Modded Class.exe
+C:\Users\ANTI-GOTH\source\repos\s1x Modded Class\s1x Modded Class\obj\Release\s1x Modded Class.pdb
